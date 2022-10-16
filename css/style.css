@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+ 
+}
+.a1{
+    background-image: url(../img/prothomalo-bangla_2022-10_a898c579-fbd1-4d03-a082-e98bf456f98c_311927_01_02.webp);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: 5px;
+    border-radius: 50px;
+    width: 500px;
+}
+.a1 h1{ 
+ color: rgb(89, 0, 255);
+ width: 400px;
+ 
+}
+.a1 p{
+    text-align: justify;
+  padding: 50px;
+  margin: 20px;
+  
+}
+.a2{
+    background-image: url(../img/T20.webp);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: 5px;
+    border-radius: 50px;
+    width: 500px;
+    text-align: justify;
+    padding: 50px;
+    margin: 20px;
+
+}
+.a2 h1{
+    color: yellow;
+}
+.a2 p{
+    border: solid red 10px;
+    padding: 20px;
+}
+.circel img{
+    width: 300px ;
+    height: 300px;
+    border: solid 50px;
+    border-radius: 200px 200px;
+    
+}    
